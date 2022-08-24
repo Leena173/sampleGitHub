@@ -6,4 +6,10 @@ public class Demo
 	{
 	System.out.println("Now Fly");
 	}
+
+	public void display() 
+	{
+	System.out.println("Now Display");
+	}
+	
 }
