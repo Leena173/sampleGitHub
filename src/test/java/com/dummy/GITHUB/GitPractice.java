@@ -2,7 +2,7 @@ package com.dummy.GITHUB;
 
 public class GitPractice {
 	public void fly() {
-		System.out.println("out");
+		System.out.println("commited and pushed");
 	}
 	 
 	
